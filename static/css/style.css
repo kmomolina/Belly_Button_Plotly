@@ -1,0 +1,15 @@
+body {
+    color: #0f0f0f;
+    background-color: #d3cdcd 
+  }
+  
+  .jumbotron {
+    background-image: url("../images/bac2.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  
+  .well {
+    padding: 25px;
+  }
+  
